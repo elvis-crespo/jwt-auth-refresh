@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wGIYDcHS0ORWaWicucy71PVbQw1KHmUsxaIUDRzfY0w=",
+  "Source": "JWT_AuthAndRefrest",
+  "BasePath": "_content/JWT_AuthAndRefrest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
